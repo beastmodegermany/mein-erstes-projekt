@@ -8,9 +8,9 @@ Dieses Projekt ist ein kleines Testprojekt zum Lernen von Git und GitHub.
 
 ## Funktionen
 
-- Einfache Strukturr
+- Einfache Struktur
 - Klarer Aufbau
-- Gute Dokumentaion
+- Gute Dokumentation
 
 ## Installation
 
